@@ -1,0 +1,5 @@
+{
+  "name": "RPS Master",
+  "description": "A modern, interactive Rock-Paper-Scissors game featuring adaptive AI difficulty, sound effects, and score tracking.",
+  "requestFramePermissions": []
+}
